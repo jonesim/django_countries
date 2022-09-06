@@ -1,0 +1,2 @@
+recursive-include django_countries *
+recursive-exclude django_countries *.pyc
